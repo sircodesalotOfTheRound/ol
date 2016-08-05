@@ -35,7 +35,7 @@ http://localhost:8080/businesses                        # This will list the fir
   ]
 }
 
-http://localhost:8080/businesses/5                      # This will show the business at index 5.
+http://localhost:8080/businesses/1                      # This will show the business at index 5.
 
 { "id":1,
   "uuid":"d083169c-4340-4a07-b390-07d297823efd",
